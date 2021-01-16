@@ -5,7 +5,7 @@
 I'm Vitor Rafael, a 19 years old Software Developer from Rio Grande do Sul (South of Brazil).  
 I'm a technology enthusiast and I'm always looking for knowledge, also I'm always open to contribute in projects, just reach me out and we can talk about this. 😄
 
-- 🏫 I'm a System Analysis and Development at UNISINOS (Universidade do Vale do Rio dos Sinos).
+- 🏫 I'm a System Analysis and Development student at UNISINOS (Universidade do Vale do Rio dos Sinos).
 - 📖 I love to read and my favorite book series is A Song of Ice and Fire.
 - :world_map: I'm currently studying German :de: and Spanish :es: and I also speak Portuguese :brazil: and English :us:.
 
