@@ -2,12 +2,14 @@
 
 
 
-I'm Vitor Rafael, a 21 years old Software Developer from Rio Grande do Sul (South of Brazil).  
-I'm a technology enthusiast and I'm always looking for knowledge, also I'm always open to contribute in projects, just reach me out and we can talk about this. 😄
+I'm Vitor Rafael, a Software Engineer from Rio Grande do Sul (South of Brazil).  
+I'm a technology enthusiast and I'm always looking for knowledge, also I'm always open to contributing to projects, just reach me and we can talk about this. 😄
 
-- 🏫 I'm a System Analysis and Development student at UNISINOS (Universidade do Vale do Rio dos Sinos).
-- 📖 I love to read and my favorite book series is A Song of Ice and Fire.
-- :world_map: I'm currently studying German :de: and Spanish :es: and I also speak Portuguese :brazil: and English :us:.
+- 🏫 I graduated from System Analysis and Development at UNISINOS (Universidade do Vale do Rio dos Sinos), receiving the SAP Honor Student award from SAP Labs Latin America and the Academic Prominence Technologist In An Administration Area Award from CRA-RS (Conselho Regional de Administração do Rio Grande do Sul).
+- 🏋️‍♂️ I'm a CrossFit athlete and I'm starting to practice Brazilian Jiu-Jitsu.
+- 🐴 I'm a horse owner.
+- 📖 My favorite book series is A Song of Ice and Fire.
+- :world_map: I'm currently studying German :de: and I also speak Portuguese :brazil: and English :us:.
 
 #### Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitordasilveira/)](https://www.linkedin.com/in/vitordasilveira/)
