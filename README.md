@@ -11,6 +11,8 @@ I'm a technology enthusiast and I'm always looking for knowledge, also I'm alway
 - 📖 My favorite book series is A Song of Ice and Fire.
 - :world_map: I'm currently studying German :de: and I also speak Portuguese :brazil: and English :us:.
 
+![Codewars](https://github.r2v.ch/codewars?user=vitorrafael&stroke=COLOR)
+
 #### Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitordasilveira/)](https://www.linkedin.com/in/vitordasilveira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vrsilveira07@gmail.com)](mailto:vrsilveira07@gmail.com)  
