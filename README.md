@@ -6,7 +6,7 @@ I'm Vitor Rafael, a Software Engineer from Rio Grande do Sul (South of Brazil).
 I'm a technology enthusiast and I'm always looking for knowledge, also I'm always open to contributing to projects, just reach me and we can talk about this. 😄
 
 - 🏫 I graduated from System Analysis and Development at UNISINOS (Universidade do Vale do Rio dos Sinos), receiving the SAP Honor Student award from SAP Labs Latin America and the Academic Prominence Technologist In An Administration Area Award from CRA-RS (Conselho Regional de Administração do Rio Grande do Sul).
-- 🏋️‍♂️ I'm a CrossFit athlete and I'm starting to practice Brazilian Jiu-Jitsu.
+- 🏋️‍♂️ I'm a CrossFit athlete.
 - 🐴 I'm a horse owner.
 - 📖 My favorite book series is A Song of Ice and Fire.
 - :world_map: I'm currently studying German :de: and I also speak Portuguese :brazil: and English :us:.
